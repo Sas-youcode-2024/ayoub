@@ -1,0 +1,29 @@
+{
+  "discord": {
+    "email": "ahnaou.14b@gmail.com",
+    "password": "m138313760"
+  },
+  "email1": {
+    "email": "ayoubahnaou@gmail.com",
+    "password": "ahnaou.2024"
+  },
+  "email2": {
+    "email": "ahnaou.14b@gmail.com",
+    "password": "Watani14.71"
+  },
+  "email3": {
+    "email": "a.ahnaou@edu.umi.ac.ma",
+    "password": "udaqehany"
+  },
+  "github": {
+    "username": "ayuuub-90",
+    "password": "watani14.71"
+  },
+  "instagram": {
+    "username": "ahnaou_a",
+    "password": "nad.nad.9"
+  },
+  "binance": {
+    "password": "Bin.Bin.9"
+  }
+}

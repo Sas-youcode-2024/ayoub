@@ -1,0 +1,2 @@
+200 | samsung galaxy S23  | 20 | 2000.00
+300 | oppo x-tra  | 120 | 900.00
